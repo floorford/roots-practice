@@ -19,6 +19,7 @@ class App extends Controller
             }
             return __('Latest Posts', 'sage');
         }
+        print_r(glob(config('theme.dir').'/app/fields/*.php'));
         if (is_archive()) {
             return get_the_archive_title();
         }
