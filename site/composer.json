@@ -45,7 +45,7 @@
     "roots/wordpress": "5.2",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "roots/soil": "^3.7",
+    "roots/soil": "^4.1",
     "wpackagist-plugin/advanced-custom-fields": "4.1.*",
     "stoutlogic/acf-builder": "^1.9"
   },
